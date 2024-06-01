@@ -1,0 +1,16 @@
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\obj\Debug\net8.0\RenderingInfoPlugin.csproj.AssemblyReference.cache
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\obj\Debug\net8.0\RenderingInfoPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\obj\Debug\net8.0\RenderingInfoPlugin.AssemblyInfoInputs.cache
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\obj\Debug\net8.0\RenderingInfoPlugin.AssemblyInfo.cs
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\obj\Debug\net8.0\RenderingInfoPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\bin\Debug\net8.0\RenderingInfoPlugin.deps.json
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\bin\Debug\net8.0\RenderingInfoPlugin.dll
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\bin\Debug\net8.0\RenderingInfoPlugin.pdb
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\bin\Debug\net8.0\BepInEx.dll
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\bin\Debug\net8.0\UnityEngine.CoreModule.dll
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\bin\Debug\net8.0\UnityEngine.dll
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\obj\Debug\net8.0\Renderin.7579E7AF.Up2Date
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\obj\Debug\net8.0\RenderingInfoPlugin.dll
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\obj\Debug\net8.0\refint\RenderingInfoPlugin.dll
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\obj\Debug\net8.0\RenderingInfoPlugin.pdb
+C:\Users\Grzegorz\RiderProjects\RenderingInfoPlugin\RenderingInfoPlugin\obj\Debug\net8.0\ref\RenderingInfoPlugin.dll
